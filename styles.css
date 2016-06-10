@@ -1,0 +1,27 @@
+
+/*lowers the input fields away from the top of the web page.*/
+body{
+	margin-top: 50px;
+}
+.container{
+	width: 100%;
+}
+.button{
+	background-color: #0080ff;
+	font-family: "arial";
+	color: white;
+	padding: 8px;
+	border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+#monthlyPayment{
+	text-align: center;
+}
