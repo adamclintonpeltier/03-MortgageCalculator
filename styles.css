@@ -1,11 +1,18 @@
 
 /*lowers the input fields away from the top of the web page.*/
+
 body{
 	margin-top: 50px;
 }
+
+/* Expanding input field to fit screen.*/
+
 .container{
 	width: 100%;
 }
+
+/* Styles the button. */
+
 .button{
 	background-color: #0080ff;
 	font-family: "arial";
@@ -14,14 +21,10 @@ body{
 	border-radius: 5px;
 }
 
-
-
-
-
-
-
-
+/* Aligns result to center. */
 
 #monthlyPayment{
 	text-align: center;
 }
+
+/* Initailed By: MTS, RN, AP. */
